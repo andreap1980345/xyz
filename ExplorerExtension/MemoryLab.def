@@ -1,0 +1,4 @@
+LIBRARY MemoryLab
+EXPORTS
+    DllGetClassObject PRIVATE
+    DllCanUnloadNow PRIVATE

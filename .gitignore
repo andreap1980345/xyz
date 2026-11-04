@@ -1,0 +1,10 @@
+bin/
+obj/
+ExplorerExtension/out/
+ProcessLauncher/app/
+ProcessLauncher/app-exercise/
+ProcessLauncher/app-injected/
+third_party/Detours/bin.*/
+third_party/Detours/lib.*/
+third_party/Detours/include/
+third_party/Detours/src/obj.*/
